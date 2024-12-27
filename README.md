@@ -28,7 +28,7 @@ This project implements the **DiSC Personality Test** in MIPS assembly language.
 ## Requirements
 
 To run this program, you need:
-- A MIPS simulator, such as [SPIM](http://spimsimulator.sourceforge.net/) or [MARS](http://courses.missouristate.edu/KenVollmar/MARS/).
+- A MIPS simulator, [MARS](http://courses.missouristate.edu/KenVollmar/MARS/).
 
 ## How to Run
 
@@ -56,7 +56,9 @@ Answer the following questions in Dominance trait:
   3. Neutral
   4. Agree
   5. Strongly Agree
+
 Enter number of your answer: 4
+
 ... Your dominant trait is: Influence: A person in this DiSC quadrant places emphasis on influencing or persuading others. They tend to be enthusiastic, optimistic, open, trusting, and energetic.
 
 
