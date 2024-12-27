@@ -51,6 +51,7 @@ First, you will start with Dominance trait Enter 1 to continue: 1
 Answer the following questions in Dominance trait:
 
  1. Do you enjoy competition and challenge?
+
   1. Strongly Disagree 
   2. Disagree
   3. Neutral
